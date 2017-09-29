@@ -6,7 +6,7 @@
 # declaration at the top                                              #
 #######################################################################
 
-from __future__ import print_function
+# from __future__ import print_function
 import numpy as np
 
 WORLD_SIZE = 5
